@@ -1,5 +1,5 @@
 function  Home() {
-    return <h1>Meu amor eu amo você!! e se você me ama da uma risadinha (: s2 te amo mais que tudo
+    return <h1>Meu amor se você me ama mesmo, você vai fazer um pão com aquele queijo e aquela linguiça pra mim! Estou com aguá na boca. Te amo meu amor
     </h1>
 }
 
